@@ -8,9 +8,9 @@ How to use
 
 First, make you sure you have `fortune` installed. On OSX, use `brew install fortune` to install it (install `brew` first). On Linux, use your favorite package manager to install.
 
-Then, run `fortune`
+Then, clone or download my zipped repo and extract the content (eg. to ~/Documents/Sheldon/). Then, run
 
-    fortune directory-containing-the-extracted-repo
+    fortune ~/Documents/Sheldon
 
 Use with `cowsay` for even more fun!
 
