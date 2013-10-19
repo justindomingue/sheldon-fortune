@@ -3,6 +3,8 @@ Sheldon Fortune
 
 A list of funny Sheldon Cooper quotes taken from The Big Bang Theory.
 
+![img](img.png)
+
 How to use
 ==========
 
